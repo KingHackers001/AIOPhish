@@ -17,6 +17,3 @@ $ cd AIOPhish
 $ bash install-termux.sh
 
 $ bash aiophish.sh
-
-
-# CREADOR BY KING
